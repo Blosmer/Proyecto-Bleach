@@ -1,0 +1,9 @@
+debug
+* spacing:10 padding:0 align:center
+'Proyecto Final'	spacingBottom:20
+---
+[startGameBUtton] width:300 height:60
+---
+[optionsBUtton] width:300 height:60
+---
+[scoresBUtton] width:300 height:60
